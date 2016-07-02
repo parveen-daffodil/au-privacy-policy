@@ -38,21 +38,6 @@ Contractor collects a variety of different kinds of information about Customers,
 
 {{PI types}}
 
-- name
-- address
-- email
-- telephone number
-- date of birth
-- credit card information
-- banking details
-- computer device information
-- location information
-- IP address
-- details of products or services that Contractor has provided to Customer
-- records of, or notes on communications between Contractor and Customer
-- anything else?
-
-
 ## How personal information is collected
 
 You should let people know how you collect their personal information. Select the ways you collect personal information.
@@ -63,15 +48,6 @@ Contractor may collect Personal Information in a variety of ways, including:
 
 {{PI collection methods}}
 
-- customer surveys
-- from other third parties
-- from Contractor's website
-- from Customer's communications with Contractor
-- automated analytics of Customer's use of Contractor's services
-- from job applications made to Contractor
-- anything else?
-
-
 ## What personal information may be used for
 
 You should let people know what you're using their Personal Information for. Select the ways you use Personal Information.
@@ -81,17 +57,6 @@ You should let people know what you're using their Personal Information for. Sel
 Contractor may collect, use, hold and disclose Personal Information in order to:
 
 {{PI uses}}
-
-- to enable Customer to use Contractor's services
-- to peform analytics of typical use of Contractor's services
-- to communicate with the Customer
-- to send marketing and promotional messages to Customer
-- to run contests or other promotional activities
-- to consider employment applications
-- to comply with the law
-- to enforce agreements with third parties
-- to process payments
-- anything else?
 
 PATXXX: Additional optional clause for using PI for direct marketing since it's legislatively complicated? (both Privacy Act and SPAM act)
 
@@ -107,18 +72,7 @@ Contractor may disclose Personal Information to:
 
 {{PI disclosure}}
 
-- Contractor's employees
-- professional advisors etc
-- third party service providers
-- payment systems operators
-- business partners
-- sponsors
-- regulatory bodies
-- courts of law
-- anything else?
-
-
-XXX: Optional inclusion widget for all this.
+XXX: Optional inclusion widget for the following?
 
 PATXXX: Does this text meet the informed consent exception in APP 8?
 
