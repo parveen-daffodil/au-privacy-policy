@@ -1,4 +1,4 @@
-# Software Development Agreement
+# Privacy Policy
 
 `Purpose` This a template for creating privacy policies for Australian organisations.
 
