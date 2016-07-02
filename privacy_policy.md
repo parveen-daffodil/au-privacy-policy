@@ -116,11 +116,11 @@ Dealing with a situation like this perfectly is very difficult, but it's a good 
 
 Contractor acknowledges that from time to time, Contractor may come into possession of Personal Information without being aware of it, for example, other organisations using Contractor's service to store data. Contractor will make a good faith effort to deal with such Personal Information in accordance with this privacy policy and the principles in the Privacy Act.
 
-## Using the Contractors services to disclose Personal Information to other organisations
+## Using the Contractors services to disclose PI to other organisations
 
 In practice, while using your services, customers might disclose their Personal Information to other organisations. For example, sharing their credit card details with a payment processor. This clause makes it clear that this might happen, and that how other organisations deal with Personal Information is ultimately up to them.
 
-### Using the contractors services to disclose Personal Information to other organisations
+### Using the contractors services to disclose PI to other organisations
 
 From time to time, during the routine use of Contractor's services, Customer's may disclose Personal Information to other organisations. While Contractor will make a good faith effort to ensure that such disclosure to other organisations is clear to Customer, how other organisations handle Personal Information is ultimately beyond the control of Contractor.
 
