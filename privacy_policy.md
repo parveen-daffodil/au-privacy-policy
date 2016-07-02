@@ -82,7 +82,7 @@ Provider acknowledges that from time to time, Provider may come into possession 
 
 Provider will make a good faith effort to deal with such Personal Information in accordance with this privacy policy and the principles in the Privacy Act.
 
-## Disclosing to other organisations using the services
+## Disclosures during use of the services
 
 Individuals might disclose their Personal Information to Organisations while using the Services. For example, an Individual may process a payment through the Service and in doing so, share credit card details with a payment processor.
 
