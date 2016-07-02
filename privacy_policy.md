@@ -60,15 +60,15 @@ Larger organisations may wish to nominate a privacy officer to deal with privacy
 
 ### Privacy complaints and questions go to the Provider's general contact details.
 
-Customer questions or complaints relating to Provider's dealings with Personal Information should be directed to Provider on {{contact details}}.
+Questions or complaints from Individuals relating to Provider's dealings with Personal Information should be directed to Provider on {{contact details}}.
 
-Provider will make a reasonable effort to resolve Customer complaints or questions, and where Provider is unable to do so, Provider will attempt to explain why it is unable to do so.
+Provider will make a reasonable effort to resolve the complaints or questions of Individuals, and where Provider is unable to do so, Provider will attempt to explain why it is unable to do so.
 
 ### Privacy complaints and questions go to the Provider's privacy officer.
 
-Customer questions or complaints relating to Provider's use of Personal Information should be directed to Provider's privacy officer. Provider's privacy officer is {{privacy officer}}, contactable on {{contact details}}.
+Questions or complaints from Individuals relating to Provider's use of Personal Information should be directed to Provider's privacy officer. Provider's privacy officer is {{privacy officer}}, contactable on {{contact details}}.
 
-Provider's privacy officer will make a reasonable effort to address Customer complaints or questions, and where the privacy officer is unable to do so, the privacy officer will attempt to explain why it is unable to do so.
+Provider's privacy officer will make a reasonable effort to address complaints or questions of Individuals, and where the privacy officer is unable to do so, the privacy officer will attempt to explain why it is unable to do so.
 
 ## Unknowingly collected information
 
