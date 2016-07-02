@@ -10,7 +10,9 @@
 
 ## Introduction
 
-While providing the Services, Provider collects Personal Information about Individuals. This document describes how the Provider collects, stores, uses and discloses Personal Information.  It uses the [lawpatch interpretation principles](lawpatch.org), a set of drafting conventions designed to make legal documents easier to understand.
+While providing the Services, Provider collects Personal Information about Individuals. This document describes how the Provider collects, stores, uses and discloses Personal Information.  
+
+This document uses the [lawpatch interpretation principles](https://github.com/CodePact/au-privacy-policy/blob/master/privacy_policy.md), a set of drafting conventions designed to make legal documents easier to understand.
 
 ## Types of information collected
 
@@ -36,7 +38,7 @@ Provider may collect, use, hold and disclose Personal Information in order to:
 
 {{information uses}}
 
-## Where information is disclosed
+## Disclosures of information
 
 You should let people know who else you're sharing their personal information with. Disclosure includes stuff like storing personal information in the cloud, or sharing phone numbers with a call centre that you have outsourced work to.
 
