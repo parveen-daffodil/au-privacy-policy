@@ -82,13 +82,13 @@ Provider acknowledges that from time to time, Provider may come into possession 
 
 Provider will make a good faith effort to deal with such Personal Information in accordance with this privacy policy and the principles in the Privacy Act.
 
-## Using the Providers services to disclose Personal Information to other organisations
+## Disclosing to other organisations using the services
 
-In practice, while using your services, customers might disclose their Personal Information to other organisations. For example, sharing their credit card details with a payment processor. This clause makes it clear that this might happen, and that how other organisations deal with Personal Information is ultimately up to them.
+Individuals might disclose their Personal Information to Organisations while using the Services. For example, an Individual may process a payment through the Service and in doing so, share credit card details with a payment processor.
 
 ### Using the Providers services to disclose Personal Information to other organisations
 
-From time to time, during the routine use of Provider's services, Customer's may disclose Personal Information to other organisations. While Provider will make a good faith effort to ensure that such disclosure to other organisations is clear to Customer, how other organisations handle Personal Information is ultimately beyond the control of Provider.
+During the use of the Services, Individuals may disclose Personal Information to Organisations. Provider will make a good faith effort to ensure that such disclosures are clear to Individuals, but how those Organisations handle Personal Information is beyond the control of Provider.
 
 ## Changes to this policy
 
