@@ -4,7 +4,7 @@
 
 `Party 1 Name` Provider
 
-`Party 2 Name` Individuals
+`Party 2 Name` Individual
 
 `Jurisdiction` Australia
 
@@ -110,7 +110,7 @@ Provider will make a good faith effort to deal with such Personal Information in
 
 Individuals might disclose their Personal Information to Organisations while using the Services. For example, an Individual may process a payment through the Service and in doing so, share credit card details with a payment processor.
 
-### Using the Providers services to disclose Personal Information to other organisations
+### Using the Services to disclose Personal Information to other organisations
 
 During the use of the Services, Individuals may disclose Personal Information to Organisations. Provider will make a good faith effort to ensure that such disclosures are clear to Individuals, but how those Organisations handle Personal Information is beyond the control of Provider.
 
