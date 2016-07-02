@@ -10,67 +10,49 @@
 
 ## Introduction
 
-This document is intended to be interpreted under the [lawpatch interpretation principles](lawpatch.org), a set of drafting conventions designed to make legal documents easier to understand.
+While providing the Services, Provider collects Personal Information about Individuals. This document describes how the Provider collects, stores, uses and discloses Personal Information.  It uses the [lawpatch interpretation principles](lawpatch.org), a set of drafting conventions designed to make legal documents easier to understand.
 
 ## Types of information collected
 
 ### The types of Personal Information Provider collects.
 
-Provider collects a variety of different kinds of information about Customers, including:
+Provider may collect the following types of Personal Information about Individuals:
 
-{{PI types}}
+{{information types}}
 
-## How personal information is collected
+## How information is collected
 
-You should let people know how you collect their personal information. Select the ways you collect personal information.
+### How the Provider collects Personal Information.
 
-### How personal information is collected
+Provider may collect Personal Information about Individuals using the following methods:
 
-Provider may collect Personal Information in a variety of ways, including:
+{{information collection methods}}
 
-{{PI collection methods}}
+## What information is used for
 
-## What personal information may be used for
-
-You should let people know what you're using their Personal Information for. Select the ways you use Personal Information.
-
-### What personal information may be used for
+### What the Provider uses Personal Information for.
 
 Provider may collect, use, hold and disclose Personal Information in order to:
 
-{{PI uses}}
+{{information uses}}
 
-PATXXX: Additional optional clause for using PI for direct marketing since it's legislatively complicated? (both Privacy Act and SPAM act)
+## Where information is disclosed
 
-Or just state in template purpose that this isn't a suitable privacy policy if you use _lots_ of direct marketing? Since we already hit our 90%?
+You should let people know who else you're sharing their personal information with. Disclosure includes stuff like storing personal information in the cloud, or sharing phone numbers with a call centre that you have outsourced work to.
 
-## Who personal information may be disclosed to
-
-You should let people know who else you're sharing their personal information with. Disclosure includes stuff like storing personal information in the cloud, or sharing phone numbers with an outsourced call centre.
-
-### Who personal information may be disclosed to
+### Where the Provider discloses Personal Information.
 
 Provider may disclose Personal Information to:
 
-{{PI disclosure}}
+{{information disclosure}}
 
-XXX: Optional inclusion widget for the following?
+## Disclosing information outside Australia
 
-PATXXX: Does this text meet the informed consent exception in APP 8?
-
-Provider may disclose personal information to organisations outside of Australia such as, {{overseas PI disclosure}} located in {{other countries}}
-
-
-XXX: In terms of handling this as a widget, maybe a table of disclosures and countries?
-
-- cloud service providors
-- payment processors
-- anything else? the entire above list?
+Provider may disclose personal information to organisations outside of Australia such as, {{overseas organisations}} located in {{countries disclosed to}}.
 
 Provider will make a good faith effort to ensure that such overseas recipients deal with Personal Information in a way that is consistent with the principles in the Privacy Act
 
-
-## Contacting Provider about privacy issues
+## Privacy questions contact
 
 It's a good idea to have a way for customers to complain or ask questions about your use of personal information. It shows customers that there's probably an easier way to resolve problems than leaping straight to the courts.
 
