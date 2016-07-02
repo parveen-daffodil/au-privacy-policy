@@ -2,9 +2,9 @@
 
 `Purpose` This a template for creating privacy policies for Australian organisations.
 
-`Party 1 Name` Contractor
+`Party 1 Name` Provider
 
-`Party 2 Name` Customer
+`Party 2 Name` Individuals
 
 `Jurisdiction` Australia
 
