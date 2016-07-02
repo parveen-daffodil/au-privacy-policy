@@ -10,7 +10,7 @@
 
 ## Introduction
 
-While providing the Services, Provider collects Personal Information about Individuals. This document describes how the Provider collects, stores, uses and discloses Personal Information.  
+While providing the Services, Provider collects Personal Information about Individuals. This document describes how the Provider collects, stores, uses and discloses Personal Information.
 
 This document uses the [lawpatch interpretation principles](https://github.com/CodePact/au-privacy-policy/blob/master/privacy_policy.md), a set of drafting conventions designed to make legal documents easier to understand.
 
@@ -29,6 +29,18 @@ Provider may collect the following types of Personal Information about Individua
 Provider may collect Personal Information about Individuals using the following methods:
 
 {{information collection methods}}
+
+## How information is held and secured
+
+### How the Provider holds Personal Information.
+
+Provider may hold Personal Information about Individuals using the following methods:
+
+{{information storage methods}}
+
+Provider ensures that Personal Information is protected from unauthorised access by:
+
+{{information security}}
 
 ## What information is used for
 
@@ -50,11 +62,11 @@ Provider may disclose Personal Information to:
 
 ## Disclosing information outside Australia
 
-Provider may disclose personal information to organisations outside of Australia such as, {{overseas organisations}} located in {{countries disclosed to}}.
+Provider may disclose personal information to organisations outside of Australia such as, {{overseas organisations}} located in {{disclosure countries}}.  By using the Services, Individuals consent to the disclosure of their Personal Information to overseas recipients.
 
-Provider will make a good faith effort to ensure that such overseas recipients deal with Personal Information in a way that is consistent with the principles in the Privacy Act
+Provider will make a good faith effort to ensure that overseas recipients deal with Personal Information in a way that is consistent with the principles of the Privacy Act, but Individuals will not have the same rights in relation to overseas recipients who handle their information as they would with Australian recipients.
 
-## Privacy questions contact
+## Privacy contact
 
 There needs to be a way for Individuals to get in touch with the Provider about privacy issues (including complaints).  For small organisations, it's probably easiest to just use your routine public contact details to file complaints about privacy.
 
@@ -64,13 +76,21 @@ Larger organisations may wish to nominate a privacy officer to deal with privacy
 
 Questions or complaints from Individuals relating to Provider's dealings with Personal Information should be directed to Provider on {{contact details}}.
 
+When an Individual communicates a complaint to Provider, Provider will respond within {{response time}}, and seek to resolve the complaint entirely within {{resolution time}} if the nature of the complaint permits it.
+
 Provider will make a reasonable effort to resolve the complaints or questions of Individuals, and where Provider is unable to do so, Provider will attempt to explain why it is unable to do so.
 
 ### Privacy complaints and questions go to the Provider's privacy officer.
 
 Questions or complaints from Individuals relating to Provider's use of Personal Information should be directed to Provider's privacy officer. Provider's privacy officer is {{privacy officer}}, contactable on {{contact details}}.
 
+When an Individual communicates a complaint to Provider, Provider will respond within {{response time}}, and seek to resolve the complaint entirely within {{resolution time}} if the nature of the complaint permits it.
+
 Provider's privacy officer will make a reasonable effort to address complaints or questions of Individuals, and where the privacy officer is unable to do so, the privacy officer will attempt to explain why it is unable to do so.
+
+## Modifying information
+
+Under privacy law, Individuals have the right to contact the Provider to modify or obtain information held about them.
 
 ## Unknowingly collected information
 
