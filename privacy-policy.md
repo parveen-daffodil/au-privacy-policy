@@ -122,8 +122,8 @@ https://github.com/CodePact/au-components/blob/widgets/agreement_changes.md
 
 ## Definitions
 
-https://github.com/pjbrow/recursive_parser/blob/master/library_definitions.md
+https://github.com/pjbrow/au-defs-wdgts/blob/master/library_definitions.md
 
 ## Widgets
 
-https://github.com/pjbrow/recursive_parser/blob/master/library_widgets.json
+https://github.com/pjbrow/au-defs-wdgts/blob/master/library_widgets.json
