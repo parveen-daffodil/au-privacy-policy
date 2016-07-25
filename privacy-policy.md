@@ -146,7 +146,7 @@ During the use of the Services, Individuals may disclose Personal Information to
 
 The best way to make changes to this document is to notify people via email.
 
-https://github.com/CodePact/au-components/blob/widgets/agreement_changes.md
+https://github.com/CodePact/au-components/blob/master/agreement_changes.md
 
 ## Definitions
 
