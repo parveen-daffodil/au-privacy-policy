@@ -22,6 +22,16 @@ Provider may collect the following types of Personal Information about Individua
 
 {{information types}}
 
+## Sensitive information
+
+Certain kinds of sensitive information need more care than normal personal information. Check if any of the categories of sensitive information apply. If they don't, this topic can be removed.
+
+### The types of sensitive information Provider collects.
+
+Provider may collect sensitive information about Individuals, including Personal Information about an Individual's:
+
+{{sensitive information}}
+
 ## How information is collected
 
 ### How the Provider collects Personal Information.
@@ -29,6 +39,8 @@ Provider may collect the following types of Personal Information about Individua
 Provider may collect Personal Information about Individuals using the following methods:
 
 {{information collection methods}}
+
+
 
 ## How information is held and secured
 
@@ -41,6 +53,16 @@ Provider may hold Personal Information about Individuals using the following met
 Provider ensures that Personal Information is protected from unauthorised access by:
 
 {{information security}}
+
+## Deletion of Personal Information
+
+It's a good idea to a have a policy for deleting Personal Information that is no longer needed.  
+
+### When Personal Information is deleted.
+
+Provider deletes Personal Information when:
+
+{{deletion events}}
 
 ## What information is used for
 
@@ -62,15 +84,21 @@ Provider may disclose Personal Information to:
 
 ## Disclosing information outside Australia
 
+If information is stored or processed overseas, for example, in an offshore data centre, this can count as an overseas disclosure and you should mention it here. 
+
+### When overseas disclosure occurs
+
 Provider may disclose personal information to organisations outside of Australia such as, {{overseas organisations}} located in {{disclosure countries}}.  By using the Services, Individuals consent to the disclosure of their Personal Information to overseas recipients.
 
 Provider will make a good faith effort to ensure that overseas recipients deal with Personal Information in a way that is consistent with the principles of the Privacy Act, but Individuals will not have the same rights in relation to overseas recipients who handle their information as they would with Australian recipients.
 
 ## Privacy contact
 
-There needs to be a way for Individuals to get in touch with the Provider about privacy issues (including complaints).  For small organisations, it's probably easiest to just use your routine public contact details to file complaints about privacy.
+There needs to be a way for Individuals to get in touch with the Provider about privacy issues (including complaints).  Small organizations can use their public contact details for fielding privacy complaints.
 
 Larger organisations may wish to nominate a privacy officer to deal with privacy related complaints. A privacy officer is an individual within your organisation that is responsible for dealing with privacy issues.
+
+It is important to set reasonable time frames for dealing with complaints or questions. 2 weeks is a reasonable response time. A month is a good amount of time for resolving issues.
 
 ### Privacy complaints and questions go to the Provider's general contact details.
 
@@ -102,7 +130,7 @@ It's a good idea to explain to people that you're aware of the possibility, and 
 
 ### Personal Information that Provider collects unknowingly.
 
-Provider acknowledges that from time to time, Provider may come into possession of Personal Information without being aware of it, for example, other organisations using Provider's service to store data.
+Provider acknowledges that from time to time, Provider may come into possession of Personal Information without being aware of it, for example, from other organisations using Provider's service to store data.
 
 Provider will make a good faith effort to deal with such Personal Information in accordance with this privacy policy and the principles in the Privacy Act.
 
@@ -118,12 +146,12 @@ During the use of the Services, Individuals may disclose Personal Information to
 
 The best way to make changes to this document is to notify people via email.
 
-https://github.com/CodePact/au-components/blob/widgets/agreement_changes.md
+https://github.com/CodePact/au-components/blob/master/agreement_changes.md
 
 ## Definitions
 
-https://github.com/pjbrow/au-defs-wdgts/blob/master/library_definitions.md
+https://github.com/CodePact/au-defs-wdgts/blob/master/library_definitions.md
 
 ## Widgets
 
-https://github.com/pjbrow/au-defs-wdgts/blob/master/library_widgets.json
+https://github.com/CodePact/au-defs-wdgts/blob/master/library_widgets.json
