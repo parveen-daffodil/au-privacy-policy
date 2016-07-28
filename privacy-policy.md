@@ -118,6 +118,8 @@ When an Individual communicates a complaint to Provider, Provider will respond w
 
 Provider's privacy officer will make a reasonable effort to address complaints or questions of Individuals, and where the privacy officer is unable to do so, the privacy officer will attempt to explain why it is unable to do so.
 
+If an Individual is unsatisfied with the outcome of the complaints process, Individual may complain to the [OAIC](https://www.oaic.gov.au).
+
 ## Accessing information
 
 Under privacy law, Individuals have the right to contact the Provider to modify or obtain information held about them by the Provider.
