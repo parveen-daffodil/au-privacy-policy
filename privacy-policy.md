@@ -4,7 +4,7 @@
 
 `Party 1 Name` Provider
 
-`Party 2 Name` Individual
+`Party 2 Name` Individuals
 
 `Jurisdiction` Australia
 
@@ -12,7 +12,7 @@
 
 While providing the Services, Provider collects Personal Information about Individuals. This document describes how the Provider collects, stores, uses and discloses Personal Information.
 
-This document uses the [lawpatch interpretation principles](https://github.com/CodePact/au-privacy-policy/blob/master/privacy_policy.md), a set of drafting conventions designed to make legal documents easier to understand.
+This document uses the [lawpatch interpretation principles](https://github.com/lawpatch/au-interpretation/blob/d009dfab6aa22d0e0ad75ce18b8d60c2bf657131/au-interpretation.md), a set of drafting conventions designed to make legal documents easier to understand.
 
 ## Types of information collected
 
@@ -28,7 +28,7 @@ Certain kinds of sensitive information need more care than normal personal infor
 
 ### The types of sensitive information Provider collects.
 
-Provider may collect sensitive information about Individuals, including Personal Information about an Individual's:
+Provider may collect sensitive information about Individuals, including Personal Information about Individuals':
 
 {{sensitive information}}
 
@@ -96,27 +96,29 @@ Provider will make a good faith effort to ensure that overseas recipients deal w
 
 There needs to be a way for Individuals to get in touch with the Provider about privacy issues (including complaints).  Small organizations can use their public contact details for fielding privacy complaints.
 
-Larger organisations may wish to nominate a privacy officer to deal with privacy related complaints. A privacy officer is an individual within your organisation that is responsible for dealing with privacy issues.
+Larger organisations may wish to nominate a privacy officer to deal with privacy related complaints. A privacy officer is a person within your organisation that is responsible for dealing with privacy issues.
 
-It is important to set reasonable time frames for dealing with complaints or questions. 2 weeks is a reasonable response time. A month is a good amount of time for resolving issues.
+It is important to set reasonable time frames for responding to and resolving complaints or questions. 2 weeks is a reasonable response time. A month is usually a reasonable resolution time unless the complaint or question is very complex.
 
 ### Privacy complaints and questions go to the Provider's general contact details.
 
 Questions or complaints from Individuals relating to Provider's dealings with Personal Information should be directed to Provider on {{contact details}}.
 
-When an Individual communicates a complaint to Provider, Provider will respond within {{response time}}, and seek to resolve the complaint entirely within {{resolution time}} if the nature of the complaint permits it.
+When Individuals communicate a complaint to Provider, Provider will respond within {{response time}}, and seek to resolve the complaint entirely within {{resolution time}} if the nature of the complaint permits it.
 
 Provider will make a reasonable effort to resolve the complaints or questions of Individuals, and where Provider is unable to do so, Provider will attempt to explain why it is unable to do so.
 
-If an Individual considers that a matter remains unresolved, Individual may contact the Office of the Australian Information Commissioner (OAIC) (http://oaic.gov.au).
+If Indviduals consider a matter remains unresolved, Individuals may contact the Office of the Australian Information Commissioner (OAIC) (http://oaic.gov.au).
 
 ### Privacy complaints and questions go to the Provider's privacy officer.
 
 Questions or complaints from Individuals relating to Provider's use of Personal Information should be directed to Provider's privacy officer. Provider's privacy officer is {{privacy officer}}, contactable on {{contact details}}.
 
-When an Individual communicates a complaint to Provider, Provider will respond within {{response time}}, and seek to resolve the complaint entirely within {{resolution time}} if the nature of the complaint permits it.
+When Individuals communicate a complaint to Provider, Provider will respond within {{response time}}, and seek to resolve the complaint entirely within {{resolution time}} if the nature of the complaint permits it.
 
 Provider's privacy officer will make a reasonable effort to address complaints or questions of Individuals, and where the privacy officer is unable to do so, the privacy officer will attempt to explain why it is unable to do so.
+
+If Individuals are unsatisfied with the outcome of the complaints process, Individuals may complain to the [OAIC](https://www.oaic.gov.au).
 
 ## Accessing information
 
@@ -136,7 +138,7 @@ Provider will make a good faith effort to deal with such Personal Information in
 
 ## Disclosures during use of the services
 
-Individuals might disclose their Personal Information to Organisations while using the Services. For example, an Individual may process a payment through the Service and in doing so, share credit card details with a payment processor.
+Individuals might disclose their Personal Information to Organisations while using the Services. For example, Individuals may process payments through the Service and in doing so, share credit card details with a payment processor.
 
 ### Using the Services to disclose Personal Information to other organisations
 
