@@ -12,8 +12,6 @@
 
 While providing the Services, Provider collects Personal Information about Individuals. This document describes how the Provider collects, stores, uses and discloses Personal Information.
 
-This document uses the [lawpatch interpretation principles](https://github.com/lawpatch/au-interpretation/blob/d009dfab6aa22d0e0ad75ce18b8d60c2bf657131/au-interpretation.md), a set of drafting conventions designed to make legal documents easier to understand.
-
 ## Types of information collected
 
 ### The types of Personal Information Provider collects.
